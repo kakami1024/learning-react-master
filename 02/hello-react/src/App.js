@@ -4,7 +4,7 @@ import { Component } from 'react'
 
 class App extends Component{
   render(){
-    const name = 'react';
+    const name = 'react start';
     return <div className='react'>{name}</div>
   }
 }
